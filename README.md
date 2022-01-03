@@ -1,4 +1,5 @@
-# Tower Defense, 2019
+# Tower Defense
+## 2019
 A tower defense game written in Java for my final project in AP Computer Science A. The objective is to remove as many enemies as you can before they reach the tower. The number of enemies you remove is your score. To remove them, the user simply has to click on them. However, this is easier said than done as they move quickly and spawn randomly. The game features:
 
 - a graphical user interface
